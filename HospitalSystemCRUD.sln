@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHRS.UI", "MHRS.UI\MHRS.UI.csproj", "{168F65F7-785E-47A2-8F74-D24F8A6C2CAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalSystemCRUD.UI", "MHRS.UI\HospitalSystemCRUD.UI.csproj", "{168F65F7-785E-47A2-8F74-D24F8A6C2CAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
